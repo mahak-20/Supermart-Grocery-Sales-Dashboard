@@ -6,7 +6,7 @@ An interactive business intelligence dashboard built to analyze retail sales dat
 
 ## Project Context
 
-Created as a **SapphireIQ Data Analytics Student Project**, this dashboard addresses a core business need: giving management a single, easy-to-understand view of overall store performance[cite: 1]. Rather than manually inspecting spreadsheets, stakeholders can use interactive visuals to quickly answer key operational and financial questions[cite: 1].
+This dashboard addresses a core business need: giving management a single, easy-to-understand view of overall store performance[cite: 1]. Rather than manually inspecting spreadsheets, stakeholders can use interactive visuals to quickly answer key operational and financial questions[cite: 1].
 
 ---
 
